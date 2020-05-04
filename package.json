@@ -25,12 +25,10 @@
     "tscov": "tscov",
     "tscov:d": "tscov --details",
     "test": "jest",
-    "posttest": "npm run size",
     "prepare": "npm run build",
     "prettier": "prettier --parser typescript --write \"src/**/*.ts\"",
     "lint": "eslint 'src/**/*.ts'",
-    "pretty-quick": "pretty-quick",
-    "size": "size-limit"
+    "pretty-quick": "pretty-quick"
   },
   "repository": {
     "type": "git",
