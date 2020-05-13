@@ -1,6 +1,6 @@
 {
   "name": "@allcapsdev/gcp-cv-import",
-  "version": "0.0.19",
+  "version": "0.0.26",
   "description": "",
   "main": "./lib/index.js",
   "private": false,
@@ -20,7 +20,7 @@
     "clean": "run-p prettier clean:lib clean:docs clean:node_modules",
     "commit": "git-cz",
     "commitlint": "commitlint -e",
-    "release": "standard-version -s",
+    "release": "standard-version",
     "start:dev": "ts-node -T src/index.ts",
     "tscov": "tscov",
     "tscov:d": "tscov --details",
@@ -50,11 +50,11 @@
     "@liftr/tscov": "1.4.6",
     "@rollup/plugin-node-resolve": "7.1.3",
     "@types/jest": "25.2.1",
-    "@types/node": "13.13.4",
-    "@typescript-eslint/eslint-plugin": "2.30.0",
-    "@typescript-eslint/parser": "2.30.0",
-    "commitizen": "4.0.5",
-    "cz-conventional-changelog": "3.1.0",
+    "@types/node": "14.0.1",
+    "@typescript-eslint/eslint-plugin": "2.33.0",
+    "@typescript-eslint/parser": "2.33.0",
+    "commitizen": "4.1.2",
+    "cz-conventional-changelog": "3.2.0",
     "eslint": "6.8.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.3",
@@ -63,15 +63,15 @@
     "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
     "rimraf": "3.0.2",
-    "rollup": "2.7.6",
+    "rollup": "2.10.0",
     "rollup-plugin-size-snapshot": "0.11.0",
     "rollup-plugin-terser": "5.3.0",
-    "rollup-plugin-typescript2": "0.27.0",
-    "standard-version": "7.1.0",
-    "ts-jest": "25.4.0",
-    "ts-loader": "7.0.2",
+    "rollup-plugin-typescript2": "0.27.1",
+    "standard-version": "8.0.0",
+    "ts-jest": "25.5.1",
+    "ts-loader": "7.0.4",
     "ts-node": "8.10.1",
-    "typescript": "3.8.3"
+    "typescript": "3.9.2"
   },
   "dependencies": {
     "@google-cloud/vision": "1.11.0"
@@ -98,11 +98,6 @@
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
-    }
-  },
-  "standard-version": {
-    "skip": {
-      "tag": true
     }
   }
 }
