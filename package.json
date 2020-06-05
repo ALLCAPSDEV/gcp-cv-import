@@ -50,7 +50,7 @@
     "@liftr/tscov": "1.4.7",
     "@rollup/plugin-node-resolve": "8.0.0",
     "@types/jest": "25.2.3",
-    "@types/node": "14.0.10",
+    "@types/node": "14.0.11",
     "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.34.0",
     "commitizen": "4.1.2",
@@ -71,10 +71,10 @@
     "ts-jest": "25.5.1",
     "ts-loader": "7.0.5",
     "ts-node": "8.10.2",
-    "typescript": "3.9.3"
+    "typescript": "3.9.5"
   },
   "dependencies": {
-    "@google-cloud/vision": "1.11.0"
+    "@google-cloud/vision": "2.0.0"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
