@@ -63,7 +63,7 @@
     "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
     "rimraf": "3.0.2",
-    "rollup": "2.15.0",
+    "rollup": "2.16.1",
     "rollup-plugin-size-snapshot": "0.12.0",
     "rollup-plugin-terser": "6.1.0",
     "rollup-plugin-typescript2": "0.27.1",
@@ -74,7 +74,7 @@
     "typescript": "3.9.5"
   },
   "dependencies": {
-    "@google-cloud/vision": "2.0.0"
+    "@google-cloud/vision": "2.1.0"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
