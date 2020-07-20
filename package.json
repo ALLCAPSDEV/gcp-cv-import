@@ -1,6 +1,6 @@
 {
   "name": "@allcapsdev/gcp-cv-import",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "description": "",
   "main": "./lib/index.js",
   "private": false,
@@ -63,7 +63,7 @@
     "prettier": "2.0.5",
     "pretty-quick": "2.0.1",
     "rimraf": "3.0.2",
-    "rollup": "2.21.0",
+    "rollup": "2.22.1",
     "rollup-plugin-size-snapshot": "0.12.0",
     "rollup-plugin-terser": "6.1.0",
     "rollup-plugin-typescript2": "0.27.1",
