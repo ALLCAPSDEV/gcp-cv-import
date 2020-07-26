@@ -2,6 +2,56 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.51](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.50...v0.0.51) (2020-07-20)
+
+### [0.0.50](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.49...v0.0.50) (2020-07-13)
+
+### [0.0.49](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.48...v0.0.49) (2020-07-06)
+
+### [0.0.48](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.47...v0.0.48) (2020-06-29)
+
+### [0.0.47](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.46...v0.0.47) (2020-06-23)
+
+### [0.0.46](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.45...v0.0.46) (2020-06-22)
+
+### [0.0.45](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.44...v0.0.45) (2020-06-17)
+
+### [0.0.44](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.43...v0.0.44) (2020-06-16)
+
+### [0.0.43](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.42...v0.0.43) (2020-06-11)
+
+### [0.0.42](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.41...v0.0.42) (2020-06-10)
+
+### [0.0.41](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.40...v0.0.41) (2020-06-08)
+
+### [0.0.40](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.39...v0.0.40) (2020-06-05)
+
+### [0.0.39](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.38...v0.0.39) (2020-06-04)
+
+### [0.0.38](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.37...v0.0.38) (2020-06-03)
+
+### [0.0.37](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.36...v0.0.37) (2020-06-02)
+
+### [0.0.36](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.35...v0.0.36) (2020-06-01)
+
+### [0.0.35](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.34...v0.0.35) (2020-05-29)
+
+### [0.0.34](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.33...v0.0.34) (2020-05-28)
+
+### [0.0.33](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.32...v0.0.33) (2020-05-25)
+
+### [0.0.32](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.31...v0.0.32) (2020-05-22)
+
+### [0.0.31](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.30...v0.0.31) (2020-05-21)
+
+### [0.0.30](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.29...v0.0.30) (2020-05-19)
+
+### [0.0.29](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.28...v0.0.29) (2020-05-15)
+
+### [0.0.28](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.27...v0.0.28) (2020-05-14)
+
+### [0.0.27](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.26...v0.0.27) (2020-05-13)
+
 ### [0.0.26](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.25...v0.0.26) (2020-05-12)
 
 ### [0.0.25](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.24...v0.0.25) (2020-05-11)
@@ -10,10 +60,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.0.23](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.22...v0.0.23) (2020-05-07)
 
-
 ### Bug Fixes
 
-* **actions:** fix release action ([d1c166c](https://github.com/ALLCAPSDEV/gcp-cv-import/commit/d1c166c8197d9b0c24eadbaf2c4eda68dec8c3a4))
+- **actions:** fix release action ([d1c166c](https://github.com/ALLCAPSDEV/gcp-cv-import/commit/d1c166c8197d9b0c24eadbaf2c4eda68dec8c3a4))
 
 ### [0.0.22](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.21...v0.0.22) (2020-05-07)
 
