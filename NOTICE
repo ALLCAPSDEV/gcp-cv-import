@@ -206,24 +206,18 @@ Apache License
 
 ------
 
-** @google-cloud/promisify; version 1.0.4 -- https://github.com/googleapis/nodejs-promisify#readme
-Copyright 2014 Google LLC
-** @google-cloud/vision; version 1.11.0 -- https://github.com/googleapis/nodejs-vision#readme
-Copyright 2017 Google LLC
-Copyright 2017 Google Inc.
-Copyright 2018 Google Inc.
-Copyright 2019 Google LLC.
-** @grpc/grpc-js; version 0.7.9 -- https://grpc.io/
-Copyright 2019
-** @grpc/proto-loader; version 0.5.4 -- https://grpc.io/
+** @google-cloud/promisify; version 2.0.1 -- https://github.com/googleapis/nodejs-promisify#readme
+** @google-cloud/vision; version 2.1.1 -- https://github.com/googleapis/nodejs-vision#readme
+** @grpc/grpc-js; version 1.1.2 -- https://grpc.io/
+** @grpc/proto-loader; version 0.5.5 -- https://grpc.io/
 Copyright 2018
-** fast-text-encoding; version 1.0.2 -- 
+** fast-text-encoding; version 1.0.3 -- 
 Copyright 2017 Sam Thorogood.
-** gaxios; version 2.3.4 -- https://github.com/googleapis/gaxios#readme
+** gaxios; version 3.0.4 -- https://github.com/googleapis/gaxios#readme
 Copyright 2018 Google LLC
-** gcp-metadata; version 3.5.0 -- https://github.com/googleapis/gcp-metadata#readme
+** gcp-metadata; version 4.1.0 -- https://github.com/googleapis/gcp-metadata#readme
 Copyright 2018 Google LLC
-** google-auth-library; version 5.10.1 -- https://github.com/googleapis/google-auth-library-nodejs#readme
+** google-auth-library; version 6.0.5 -- https://github.com/googleapis/google-auth-library-nodejs#readme
 Copyright 2012 Google LLC
 Copyright 2013 Google LLC
 Copyright 2014 Google LLC
@@ -231,12 +225,10 @@ Copyright 2015 Google LLC
 Copyright 2017 Google LLC
 Copyright 2018 Google LLC
 Copyright 2019 Google LLC
-** google-gax; version 1.15.2 -- https://github.com/googleapis/gax-nodejs#readme
+** google-gax; version 2.6.3 -- https://github.com/googleapis/gax-nodejs#readme
 Copyright 2008 Google Inc.
 Copyright 2016 Google Inc.
 Copyright 2017 Google Inc.
-Copyright 2018 Google Inc.
-Copyright 2018 Google LLC.
 Copyright 2019 Google LLC.
 Copyright (c) 2015, Google Inc.
 ** long; version 4.0.0 -- https://github.com/dcodeIO/long.js#readme
@@ -467,6 +459,32 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ------
 
+** protobufjs; version 6.10.0 -- http://dcode.io/protobuf.js
+
+The MIT License
+
+Copyright (c) 2016 Chad Engler
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+------
+
 ** @protobufjs/aspromise; version 1.1.2 -- https://github.com/dcodeIO/protobuf.js#readme
 Copyright (c) 2016, Daniel Wirtz
 ** @protobufjs/base64; version 1.1.2 -- https://github.com/dcodeIO/protobuf.js#readme
@@ -518,56 +536,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ------
 
-** protobufjs; version 6.9.0 -- http://dcode.io/protobuf.js
-(c) 2016, daniel wirtz
-Copyright 2014, Google Inc.
-Copyright (c) 2016 Chad Engler
-Copyright (c) 2016, Daniel Wirtz
-
-This license applies to all parts of protobuf.js except those files
-either explicitly including or referencing a different license or
-located in a directory containing a different LICENSE file.
-
----
-
-Copyright (c) 2016, Daniel Wirtz  All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-* Redistributions of source code must retain the above copyright
-  notice, this list of conditions and the following disclaimer.
-* Redistributions in binary form must reproduce the above copyright
-  notice, this list of conditions and the following disclaimer in the
-  documentation and/or other materials provided with the distribution.
-* Neither the name of its author, nor the names of its contributors
-  may be used to endorse or promote products derived from this software
-  without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
----
-
-Code generated by the command line utilities is owned by the owner
-of the input file used when generating it. This code is not
-standalone and requires a support library to be linked with it. This
-support library is itself covered by the above license.
-
-
-------
-
-** lru-cache; version 5.1.1 -- https://github.com/isaacs/node-lru-cache#readme
+** lru-cache; version 6.0.0 -- https://github.com/isaacs/node-lru-cache#readme
 Copyright (c) Isaac Z. Schlueter and Contributors
 ** once; version 1.4.0 -- https://github.com/isaacs/once#readme
 Copyright (c) Isaac Z. Schlueter and Contributors
@@ -577,7 +546,7 @@ Copyright Isaac Z. Schlueter
 Copyright (c) Isaac Z. Schlueter and Contributors
 ** wrappy; version 1.0.2 -- https://github.com/npm/wrappy
 Copyright (c) Isaac Z. Schlueter and Contributors
-** yallist; version 3.1.1 -- https://github.com/isaacs/yallist#readme
+** yallist; version 4.0.0 -- https://github.com/isaacs/yallist#readme
 Copyright (c) Isaac Z. Schlueter and Contributors
 
 The ISC License
@@ -639,7 +608,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ------
 
-** json-bigint; version 0.3.0 -- https://github.com/sidorares/json-bigint#readme
+** json-bigint; version 0.3.1 -- https://github.com/sidorares/json-bigint#readme
 Copyright (c) 2013 Andrey Sidorov
 
 The MIT License (MIT)
@@ -896,6 +865,37 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ------
 
+** bignumber.js; version 9.0.0 -- https://github.com/MikeMcl/bignumber.js#readme
+Copyright (c) 2019 Michael Mclaughlin
+Copyright (c) 2019 Michael Mclaughlin <M8ch88l@gmail.com>
+
+The MIT Licence.
+
+Copyright (c) 2019 Michael Mclaughlin
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+------
+
 ** event-target-shim; version 5.0.1 -- https://github.com/mysticatea/event-target-shim
 copyright 2015 Toru Nagashima.
 Copyright (c) 2015 Toru Nagashima
@@ -926,8 +926,6 @@ SOFTWARE.
 
 ------
 
-** @types/fs-extra; version 8.1.0 -- 
-Copyright (c) Microsoft Corporation.
 ** @types/long; version 4.0.1 -- 
 Copyright (c) Microsoft Corporation.
 
@@ -982,7 +980,7 @@ SOFTWARE.**
 
 ------
 
-** mime; version 2.4.5 -- https://github.com/broofa/node-mime#readme
+** mime; version 2.4.6 -- https://github.com/broofa/mime#readme
 Copyright (c) 2010 Benjamin Thomas, Robert Kieffer
 
 The MIT License (MIT)
@@ -1039,12 +1037,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ------
 
-** google-p12-pem; version 2.0.4 -- https://github.com/google/google-p12-pem#readme
+** google-p12-pem; version 3.0.2 -- https://github.com/google/google-p12-pem#readme
 Copyright 2018 Google LLC
 Copyright (c) 2014 Ryan Seys
-** gtoken; version 4.1.4 -- https://github.com/google/node-gtoken#readme
-Copyright 2018 Google LLC
-Copyright (c) 2014 Ryan Seys
+** gtoken; version 5.0.2 -- https://github.com/google/node-gtoken#readme
 
 The MIT License (MIT)
 
@@ -1100,7 +1096,7 @@ THE SOFTWARE.
 
 ------
 
-** agent-base; version 6.0.0 -- https://github.com/TooTallNate/node-agent-base#readme
+** agent-base; version 6.0.1 -- https://github.com/TooTallNate/node-agent-base#readme
 Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
 ** https-proxy-agent; version 5.0.0 -- https://github.com/TooTallNate/node-https-proxy-agent#readme
 Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
@@ -1145,7 +1141,7 @@ IN THE SOFTWARE.
 
 ------
 
-** @types/node; version 13.13.4 -- 
+** @types/node; version 13.13.14 -- 
 Copyright (c) Microsoft Corporation.
 
     MIT License
@@ -1321,37 +1317,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-------
-
-** bignumber.js; version 7.2.1 -- https://github.com/MikeMcl/bignumber.js#readme
-Copyright (c) 2018 Michael Mclaughlin
-Copyright (c) 2018 Michael Mclaughlin <M8ch88l@gmail.com>
-
-The MIT Licence.
-
-Copyright (c) 2018 Michael Mclaughlin
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 
 
 ------
