@@ -1145,7 +1145,9 @@ IN THE SOFTWARE.
 
 ------
 
-** @types/node; version 13.13.4 -- 
+** @types/node; version 13.13.6 -- 
+Copyright (c) Microsoft Corporation.
+** @types/node; version 14.0.1 -- 
 Copyright (c) Microsoft Corporation.
 
     MIT License
