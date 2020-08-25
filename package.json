@@ -1,6 +1,6 @@
 {
   "name": "@allcapsdev/gcp-cv-import",
-  "version": "0.0.54",
+  "version": "0.0.55",
   "description": "",
   "main": "./lib/index.js",
   "private": false,
@@ -70,7 +70,7 @@
     "standard-version": "9.0.0",
     "ts-jest": "25.5.1",
     "ts-loader": "8.0.2",
-    "ts-node": "8.10.2",
+    "ts-node": "9.0.0",
     "typescript": "3.9.7"
   },
   "dependencies": {
