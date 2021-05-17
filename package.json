@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/ALLCAPSDEV/gcp-cv-import#readme",
   "devDependencies": {
-    "@arkweid/lefthook": "0.7.4",
+    "@arkweid/lefthook": "0.7.5",
     "@commitlint/cli": "12.1.4",
     "@commitlint/config-conventional": "12.1.4",
     "@liftr/tscov": "2.0.0",
