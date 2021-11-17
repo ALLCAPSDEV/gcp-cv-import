@@ -46,7 +46,7 @@
   "devDependencies": {
     "@arkweid/lefthook": "0.7.7",
     "@commitlint/cli": "15.0.0",
-    "@commitlint/config-conventional": "14.1.0",
+    "@commitlint/config-conventional": "15.0.0",
     "@liftr/tscov": "2.0.0",
     "@rollup/plugin-node-resolve": "13.0.6",
     "@types/jest": "27.0.2",
