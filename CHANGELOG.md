@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.156](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.155...v0.0.156) (2022-08-01)
+
 ### [0.0.155](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.154...v0.0.155) (2022-07-25)
 
 ### [0.0.154](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.153...v0.0.154) (2022-07-18)
