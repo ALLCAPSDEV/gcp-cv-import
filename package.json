@@ -1,6 +1,6 @@
 {
   "name": "@allcapsdev/gcp-cv-import",
-  "version": "0.0.173",
+  "version": "0.0.174",
   "description": "",
   "main": "./lib/index.js",
   "private": false,
