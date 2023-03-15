@@ -50,7 +50,7 @@
     "@liftr/tscov": "2.0.0",
     "@rollup/plugin-node-resolve": "15.0.1",
     "@types/jest": "29.4.2",
-    "@types/node": "18.15.1",
+    "@types/node": "18.15.3",
     "@typescript-eslint/eslint-plugin": "4.0.0",
     "@typescript-eslint/parser": "3.10.1",
     "commitizen": "4.3.0",
