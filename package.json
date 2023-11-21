@@ -49,7 +49,7 @@
     "@commitlint/config-conventional": "18.4.2",
     "@liftr/tscov": "2.0.0",
     "@rollup/plugin-node-resolve": "15.2.3",
-    "@types/jest": "29.5.8",
+    "@types/jest": "29.5.9",
     "@types/node": "20.9.2",
     "@typescript-eslint/eslint-plugin": "4.0.0",
     "@typescript-eslint/parser": "3.10.1",
