@@ -45,12 +45,12 @@
   "homepage": "https://github.com/ALLCAPSDEV/gcp-cv-import#readme",
   "devDependencies": {
     "@arkweid/lefthook": "0.7.7",
-    "@commitlint/cli": "18.6.0",
-    "@commitlint/config-conventional": "18.6.0",
+    "@commitlint/cli": "18.6.1",
+    "@commitlint/config-conventional": "18.6.2",
     "@liftr/tscov": "2.0.0",
     "@rollup/plugin-node-resolve": "15.2.3",
     "@types/jest": "29.5.12",
-    "@types/node": "20.11.17",
+    "@types/node": "20.11.19",
     "@typescript-eslint/eslint-plugin": "4.0.0",
     "@typescript-eslint/parser": "3.10.1",
     "commitizen": "4.3.0",
@@ -74,7 +74,7 @@
     "typescript": "5.3.3"
   },
   "dependencies": {
-    "@google-cloud/vision": "4.0.3"
+    "@google-cloud/vision": "4.1.0"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
