@@ -74,7 +74,7 @@
     "typescript": "5.4.5"
   },
   "dependencies": {
-    "@google-cloud/vision": "4.2.1"
+    "@google-cloud/vision": "4.3.1"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
