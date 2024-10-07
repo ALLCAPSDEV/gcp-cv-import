@@ -2,6 +2,170 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.270](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.269...v0.0.270) (2024-10-07)
+
+### [0.0.269](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.268...v0.0.269) (2024-09-30)
+
+### [0.0.268](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.267...v0.0.268) (2024-09-23)
+
+### [0.0.267](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.266...v0.0.267) (2024-09-16)
+
+### [0.0.266](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.265...v0.0.266) (2024-09-09)
+
+### [0.0.265](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.264...v0.0.265) (2024-09-02)
+
+### [0.0.264](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.263...v0.0.264) (2024-08-26)
+
+### [0.0.263](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.262...v0.0.263) (2024-08-19)
+
+### [0.0.262](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.261...v0.0.262) (2024-08-12)
+
+### [0.0.261](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.260...v0.0.261) (2024-08-05)
+
+### [0.0.260](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.259...v0.0.260) (2024-07-29)
+
+### [0.0.259](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.258...v0.0.259) (2024-07-22)
+
+### [0.0.258](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.257...v0.0.258) (2024-07-15)
+
+### [0.0.257](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.256...v0.0.257) (2024-07-08)
+
+### [0.0.256](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.255...v0.0.256) (2024-07-01)
+
+### [0.0.255](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.254...v0.0.255) (2024-06-24)
+
+### [0.0.254](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.253...v0.0.254) (2024-06-17)
+
+### [0.0.253](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.252...v0.0.253) (2024-06-10)
+
+### [0.0.252](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.251...v0.0.252) (2024-06-03)
+
+### [0.0.251](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.250...v0.0.251) (2024-05-27)
+
+### [0.0.250](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.249...v0.0.250) (2024-05-20)
+
+### [0.0.249](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.248...v0.0.249) (2024-05-13)
+
+### [0.0.248](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.247...v0.0.248) (2024-05-06)
+
+### [0.0.247](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.246...v0.0.247) (2024-04-29)
+
+### [0.0.246](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.245...v0.0.246) (2024-04-22)
+
+### [0.0.245](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.244...v0.0.245) (2024-04-15)
+
+### [0.0.244](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.243...v0.0.244) (2024-04-08)
+
+### [0.0.243](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.242...v0.0.243) (2024-04-01)
+
+### [0.0.242](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.241...v0.0.242) (2024-03-25)
+
+### [0.0.241](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.240...v0.0.241) (2024-03-18)
+
+### [0.0.240](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.239...v0.0.240) (2024-03-11)
+
+### [0.0.239](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.238...v0.0.239) (2024-03-04)
+
+### [0.0.238](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.237...v0.0.238) (2024-02-26)
+
+### [0.0.237](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.236...v0.0.237) (2024-02-19)
+
+### [0.0.236](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.235...v0.0.236) (2024-02-12)
+
+### [0.0.235](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.234...v0.0.235) (2024-02-05)
+
+### [0.0.234](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.233...v0.0.234) (2024-01-29)
+
+### [0.0.233](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.232...v0.0.233) (2024-01-22)
+
+### [0.0.232](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.231...v0.0.232) (2024-01-15)
+
+### [0.0.231](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.230...v0.0.231) (2024-01-08)
+
+### [0.0.230](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.229...v0.0.230) (2024-01-01)
+
+### [0.0.229](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.228...v0.0.229) (2023-12-25)
+
+### [0.0.228](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.227...v0.0.228) (2023-12-18)
+
+### [0.0.227](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.226...v0.0.227) (2023-12-11)
+
+### [0.0.226](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.225...v0.0.226) (2023-12-04)
+
+### [0.0.225](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.224...v0.0.225) (2023-11-27)
+
+### [0.0.224](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.223...v0.0.224) (2023-11-20)
+
+### [0.0.223](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.222...v0.0.223) (2023-11-13)
+
+### [0.0.222](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.221...v0.0.222) (2023-11-06)
+
+### [0.0.221](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.220...v0.0.221) (2023-10-30)
+
+### [0.0.220](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.219...v0.0.220) (2023-10-23)
+
+### [0.0.219](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.218...v0.0.219) (2023-10-16)
+
+### [0.0.218](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.217...v0.0.218) (2023-10-09)
+
+### [0.0.217](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.216...v0.0.217) (2023-10-02)
+
+### [0.0.216](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.215...v0.0.216) (2023-09-25)
+
+### [0.0.215](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.214...v0.0.215) (2023-09-18)
+
+### [0.0.214](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.213...v0.0.214) (2023-09-11)
+
+### [0.0.213](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.212...v0.0.213) (2023-09-04)
+
+### [0.0.212](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.211...v0.0.212) (2023-08-28)
+
+### [0.0.211](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.210...v0.0.211) (2023-08-21)
+
+### [0.0.210](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.209...v0.0.210) (2023-08-14)
+
+### [0.0.209](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.208...v0.0.209) (2023-08-07)
+
+### [0.0.208](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.207...v0.0.208) (2023-07-31)
+
+### [0.0.207](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.206...v0.0.207) (2023-07-24)
+
+### [0.0.206](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.205...v0.0.206) (2023-07-17)
+
+### [0.0.205](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.204...v0.0.205) (2023-07-10)
+
+### [0.0.204](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.203...v0.0.204) (2023-07-03)
+
+### [0.0.203](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.202...v0.0.203) (2023-06-26)
+
+### [0.0.202](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.201...v0.0.202) (2023-06-19)
+
+### [0.0.201](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.200...v0.0.201) (2023-06-12)
+
+### [0.0.200](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.199...v0.0.200) (2023-06-05)
+
+### [0.0.199](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.198...v0.0.199) (2023-05-29)
+
+### [0.0.198](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.197...v0.0.198) (2023-05-22)
+
+### [0.0.197](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.196...v0.0.197) (2023-05-15)
+
+### [0.0.196](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.195...v0.0.196) (2023-05-08)
+
+### [0.0.195](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.194...v0.0.195) (2023-05-01)
+
+### [0.0.194](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.193...v0.0.194) (2023-04-24)
+
+### [0.0.193](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.192...v0.0.193) (2023-04-17)
+
+### [0.0.192](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.191...v0.0.192) (2023-04-10)
+
+### [0.0.191](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.190...v0.0.191) (2023-04-03)
+
+### [0.0.190](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.189...v0.0.190) (2023-03-27)
+
+### [0.0.189](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.188...v0.0.189) (2023-03-20)
+
 ### [0.0.188](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.187...v0.0.188) (2023-03-13)
 
 ### [0.0.187](https://github.com/ALLCAPSDEV/gcp-cv-import/compare/v0.0.186...v0.0.187) (2023-03-06)
